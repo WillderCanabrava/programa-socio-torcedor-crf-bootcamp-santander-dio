@@ -29,6 +29,6 @@ classDiagram
     }
 
      ClubMember "1" *-- "1" MemberProfile
-     ClubMember "1" *-- "2" MemberAddress
+     ClubMember "1" *-- "1" MemberAddress
      ClubMember "1" *-- "N" News
 ```
