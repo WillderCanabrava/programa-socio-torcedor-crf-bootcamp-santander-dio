@@ -1,0 +1,1 @@
+web: java -jar build/libs/programa-socio-torcedor-crf-0.0.1-SNAPSHOT.jar
